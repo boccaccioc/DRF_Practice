@@ -32,6 +32,7 @@ ALLOWED_HOSTS = [
     'localhost'
 ]
 
+AUTH_USER_MODEL = 'apis.Account'
 
 # Application definition
 
