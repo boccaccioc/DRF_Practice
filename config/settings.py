@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'todos', # new
     'rest_framework', # new
     'apis', # new
+    'django_extensions',
 ]
 
 REST_FRAMEWORK = {
